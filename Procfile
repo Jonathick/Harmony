@@ -1,1 +1,1 @@
-web: java -jar bot.jar
+worker: java -jar bot.jar
